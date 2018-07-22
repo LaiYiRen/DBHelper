@@ -1,0 +1,8 @@
+E:\数据库辅助类\System.Data.DBHelper\bin\Debug\System.Data.DBHelper.dll
+E:\数据库辅助类\System.Data.DBHelper\bin\Debug\System.Data.DBHelper.pdb
+E:\数据库辅助类\System.Data.DBHelper\bin\Debug\MySql.Data.dll
+E:\数据库辅助类\System.Data.DBHelper\obj\Debug\System.Data.DBHelper.csprojAssemblyReference.cache
+E:\数据库辅助类\System.Data.DBHelper\obj\Debug\System.Data.DBHelper.csproj.CoreCompileInputs.cache
+E:\数据库辅助类\System.Data.DBHelper\obj\Debug\System.Data.DBHelper.csproj.CopyComplete
+E:\数据库辅助类\System.Data.DBHelper\obj\Debug\System.Data.DBHelper.dll
+E:\数据库辅助类\System.Data.DBHelper\obj\Debug\System.Data.DBHelper.pdb
